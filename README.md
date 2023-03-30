@@ -1,3 +1,8 @@
-Desafío propuesto por el profesor para practicar:
-HTML
-CSS
+# Desafio card - CODO A CODO - PHP - 2023
+
+********************************
+
+## Este trabajo aplica
+
+- **HTML**
+- **CSS**

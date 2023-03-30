@@ -1,0 +1,48 @@
+body{
+    width: 27%;
+    height: 38%;
+    margin: 0 auto;
+}
+
+#contenedor-principal{
+    background-color:  #fa8c06;
+    margin-top: 50px;
+    text-align: center;
+    border: 4px solid black;
+    border-radius: 10px;
+}
+
+#contenedor-principal-nombre{
+    background-color: #f44709;
+    width: 200px;
+    height: 40px;
+    display: inline-block;
+    margin-top: -25px;
+    border: solid 4px black;
+    border-radius: 10px;
+    
+}
+
+#contenedor-principal-nombre p{
+    font-size: 30px;
+    font-weight: bold;
+    margin: 0px auto;
+}
+
+#contenedor-principal-foto img{
+    width: 60%;
+    height: 60%;
+    margin: 17px auto;
+    margin-bottom: -20px;
+}
+
+
+#detalles{
+    font-weight: bold;
+    padding: 20px 20px;
+    text-align: left;
+}
+
+#final{
+    text-align:justify;
+}
